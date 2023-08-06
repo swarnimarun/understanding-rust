@@ -18,7 +18,7 @@ Rust Engineer @ DeepSource
 ---
 
 ```qrcode
-https://www.github.com/understanding-rust
+https://www.github.com/swarnimarun/understanding-rust
 ```
 
 ---
